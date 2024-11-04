@@ -93,3 +93,5 @@
 	https://dzone.com/articles/introducing-spring-boot
 	https://habr.com/ru/articles/675716/?_gl=1%2Awplp0y%2A_ga%2AbDgtSl9VN1dxdERNYS1SMkp1ZlNTLVd6d2pwU2RRWVFmX1c3bm9mQWRhSkJCTHpHZ2dwNm5qOXplTFN1WEs2Vw..%2A_ga_S28W1WC23F%2AMTczMDY2MTU0NS4xLjEuMTczMDY2MTU0NS4wLjAuMA
 	https://tproger.ru/articles/spring-boot-bystroe-znakomstvo-i-start-na-primere-prostogo-veb-prilozhenija
+	https://habr.com/ru/companies/otus/articles/780090/
+	https://www.vogella.com/tutorials/Mockito/article.html
